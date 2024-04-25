@@ -2829,6 +2829,13 @@ input, select, textarea {
 			background-size: auto,							cover,							cover;
 			text-align: center;
 
+
+/*			background-attachment: fixed,							fixed;
+			background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(45deg, #4361c2, #229da4 30%);
+			background-position: top left,						center center;
+			background-size: auto,							cover;
+			text-align: center;
+*/
 		}
 
 		.main.style2 {
